@@ -42,6 +42,7 @@ export default function Page() {
             height={620}
             className='block md:hidden'
             alt='Screenshot of the dashboard project showing mobile version'
+            
           />
         </div>
       </div>
